@@ -3,7 +3,7 @@ equipment_profile:
 #  access_control: false # equivalent to selinux=0
   firewall: false
 
-  console: console=tty0 console=ttyS1,115200n8
+  console: console=tty0
   kernel_parameters: nomodeset
 
   operating_system:
