@@ -3,7 +3,7 @@ equipment_profile:
   access_control: true
   firewall: true
 
-  console: console=tty0
+  console: console=tty0 console=ttyS0,115200n8
   kernel_parameters:
 
   operating_system:
