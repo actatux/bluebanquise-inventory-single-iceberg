@@ -1,7 +1,7 @@
 equipment_profile:
 
   access_control: true
-  firewall: false
+  firewall: true
 
   partitioning: |
     clearpart --all --initlabel
